@@ -1,0 +1,75 @@
+# start
+
+# we are going to create a schedule just using print blocks with adding the time and class name .
+print("Ninis Twumasi's Schedule")
+
+print("Monday (Red)")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 Dialogue II-B-Wilson")
+print("9:40-10:40 Specials")
+print("10:45 Break")
+print("10:55-11:55 Research Principles B-Louis")
+print("12:00-1:35 Lunch & Office Hours")
+print("1:40-2:40 Chemistry B-Vetrano")
+
+print("...")
+
+print("Monday (Black)")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 English 10: Lit & Comp II-B-Farmer")
+print("9:40-10:40 French III-Di Meo")
+print("10:45 Break")
+print("10:55-11:55 Modern World History B-Plane")
+print("12:00-1:35 Lunch & Office Hours")
+print("1:40-2:40 Algebra II-Davis")
+
+print("...")
+
+print("Tuesday")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 Music 10 B-Kelly")
+print("9:40-10:40 Chemistry B-Vetrano")
+print("10:45 Break")
+print("10:55-11:55 Intro to Computer Science 10-B-Jeffers")
+print("12:00-12:30 Lunch 1")
+print("12:35-1:35 Algebra II-Davis")
+print("1:40-2:40 French III-Di Meo")
+print("2:45-3:45 English 10: Lit & Comp II-B-Farmer")
+
+print("...")
+
+print("Wednesday")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 Modern World History B-Plane")
+print("9:40-10:40 Dialogue II-B-Wilson")
+print("10:45 Break")
+print("10:55-11:55 French III-Di Meo")
+print("12:00-12:30 Lunch 1")
+print("12:35-1:35 Chemistry B-Vetrano")
+print("1:40-2:40 Music 10 B-Kelly")
+
+print("...")
+
+print("Thursday")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 Chemistry B-Vetrano")
+print("9:40-10:40 English 10: Lit & Comp II-B-Farmer")
+print("10:45 Break")
+print("10:55-11:55 Algebra II-Davis")
+print("12:00-12:30 Lunch 1")
+print("12:35-1:35 Research Principles B-Louis")
+print("1:40-2:10 Community Time-Wong")
+print("2:15-3:15 Modern World History B-Plane")
+
+print("...")
+
+print("Friday")
+print("8:00-8:30 Clubs/Office Hours")
+print("8:35-9:35 French III-Di Meo")
+print("9:40-10:40 Algebra II-Davis")
+print("10:45 Break")
+print("10:55-11:55 English 10: Lit & Comp II-B-Farmer")
+print("12:00-12:30 Lunch 1")
+print("12:35-1:35 Modern World History B-Plane")
+print("1:40-2:10 Community Time-Wong")
+print("2:15-3:15 Intro to Computer Science 10-B-Jeffers")
